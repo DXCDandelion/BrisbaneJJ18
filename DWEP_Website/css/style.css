@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #D3CCE3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E9E4F0, #D3CCE3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
+} 
+.button-col {
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+    
+    
+}
+.tts-col {
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+    
+    
+}
+.feature-col {
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+    
+    
+}
+.btn-group-wrap {
+    text-align: center;
+    margin: 10px;
+}
+.btn-group-wrap-2 {
+    text-align: center;
+    margin: 10px;
+}
+    .btn-group {
+        margin: 0 auto;
+        
+    }
+
+
+
+    /* Text area code */
+    .active-amber-textarea-2 textarea.md-textarea {
+        border-bottom: 1px solid #ffa000;
+        box-shadow: 0 1px 0 0 #ffa000;
+    }
+    .active-amber-textarea-2.md-form label.active {
+        color: #ffa000;
+    }
+    .active-amber-textarea-2.md-form label {
+        color: #ffa000;
+    }
+    .card {
+        padding: 15px;
+        margin-bottom: 25px;
+    
+    }
+    
+    
+
